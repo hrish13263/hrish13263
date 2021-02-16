@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrish13263
-I am interested in leveraging data to make informed decisions
+I am interested in leveraging data to make informed decisions.
 I am currently a junior Computer science major. My passions include sports, problem solving and entrepreneurship.
 
 <!---
